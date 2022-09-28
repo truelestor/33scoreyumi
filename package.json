@@ -10,7 +10,7 @@
     "credit score you need to buy a house",
     "credit score or business"
   ],
-  "repository": "https://github.com/atom/33scoreyumi",
+  "repository": "https://github.com/truelestor/33scoreyumi.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
