@@ -1,0 +1,18 @@
+{
+  "name": "33scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Total Credit Detection ◄ Get Your FREE Credit Score Total Credit Detection, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Total Credit Detection",
+    "mortgages low credit score",
+    "credit score 649",
+    "credit score you need to buy a house",
+    "credit score or business"
+  ],
+  "repository": "https://github.com/atom/33scoreyumi",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
